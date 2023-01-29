@@ -6,9 +6,6 @@ title: Preston "Trey" Bussey
 first_name: Preston
 last_name: Bussey
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
