@@ -56,7 +56,7 @@ sections:
           date_start: '2020-08-01'
           date_end: '2022-05-01'
           description: 
-          - title: BS in Criminal Justice
+        - title: BS in Criminal Justice
           company: Radford University
           company_url: ''
           company_logo: 
