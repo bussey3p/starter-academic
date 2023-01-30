@@ -195,11 +195,6 @@ sections:
         country: United States
         country_code: US
       directions: 218 CPACS
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Twitter
-          link: 'https://twitter.com/bussey3p'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
