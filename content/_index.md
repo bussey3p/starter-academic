@@ -17,15 +17,15 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: Data Analysis
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: Research
           icon: chart-line
           icon_pack: fas
         - name: Teaching
-          description: 10%
+          description: Undergraduate courses
           icon: training
           icon_pack: custom
   - block: experience
