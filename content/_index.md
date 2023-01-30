@@ -17,17 +17,17 @@ sections:
       title: Skills
       items:
         - name: R
-          description: Data Analysis
+          description: Data Analysis and Programming 
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: Research
+          description: Research and Crime Analysis
           icon: chart-line
           icon_pack: fas
         - name: Teaching
           description: Undergraduate Courses
-          icon: chalkboard
-          icon_pack: fab
+          icon: comments
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
