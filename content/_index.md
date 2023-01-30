@@ -28,7 +28,7 @@ sections:
           description: Undergraduate Courses
           icon: comments
           icon_pack: fas
-  - block: education
+  - block: experience
     content:
       title: Education
       # Date format for experience
