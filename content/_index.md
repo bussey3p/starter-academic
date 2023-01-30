@@ -24,9 +24,9 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: Teaching
           description: 10%
-          icon: camera-retro
+          icon: training
           icon_pack: fas
   - block: experience
     content:
