@@ -45,7 +45,7 @@ sections:
           company_url: ''
           company_logo: 
           location: Omaha, NE
-          date_start: '2021-08-01'
+          date_start: '2022-08-01'
           date_end: '2026-05-01'
           description:
         - title: MS in Criminal Justice
