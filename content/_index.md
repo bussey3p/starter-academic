@@ -145,9 +145,9 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
  # - block: collection
-    id: featured
-    content:
-      title: Featured Publications
+   # id: featured
+    #content:
+      #title: Featured Publications
       filters:
         folders:
           - publication
