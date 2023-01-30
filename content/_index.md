@@ -51,7 +51,7 @@ sections:
         - title: MS in Criminal Justice
           company: Radford University
           company_url: ''
-          company_logo: 
+          company_logo: radford
           location: Radford, VA
           date_start: '2020-08-01'
           date_end: '2022-05-01'
@@ -59,7 +59,7 @@ sections:
         - title: BS in Criminal Justice
           company: Radford University
           company_url: ''
-          company_logo: 
+          company_logo: radford
           location: Radford, VA
           date_start: '2017-08-01'
           date_end: '2020-05-01'
