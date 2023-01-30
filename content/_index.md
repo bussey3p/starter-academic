@@ -210,10 +210,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to email or simply message me on Twitter
+        Feel free to email or message me on Twitter
       # Contact (add or remove contact options as necessary)
       email: pbussey@unomaha.edu
-      phone: 402 554 2610
       address:
         street: 6001 Dodge street
         city: Omaha
@@ -221,11 +220,11 @@ sections:
         postcode: '68182'
         country: United States
         country_code: US
-      directions: CPACS 218 
+      directions: 218 CPACS
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Twitter
           link: 'https://twitter.com/bussey3p'
       # Automatically link email and phone or display as text?
       autolink: true
