@@ -91,9 +91,9 @@ sections:
     design:
       columns: '2'
  # - block: collection
-    id: posts
-    content:
-      title: Recent Posts
+   # id: posts
+    #content:
+     # title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -118,9 +118,9 @@ sections:
       view: compact
       columns: '2'
   # - block: portfolio
-    id: projects
-    content:
-      title: Projects
+    #id: projects
+    #content:
+     # title: Projects
       filters:
         folders:
           - project
