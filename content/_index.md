@@ -43,7 +43,7 @@ sections:
         - title: PhD in Criminology and Criminal Justice
           company: University of Nebraska Omaha
           company_url: ''
-          company_logo: 
+          company_logo: uno
           location: Omaha, NE
           date_start: '2022-08-01'
           date_end: '2026-05-01'
