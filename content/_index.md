@@ -26,8 +26,8 @@ sections:
           icon_pack: fas
         - name: Teaching
           description: Undergraduate Courses
-          icon: comments
-          icon_pack: fas
+          icon: chalkboard
+          icon_pack: custom
   - block: experience
     content:
       title: Experience
