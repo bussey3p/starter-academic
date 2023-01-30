@@ -24,10 +24,6 @@ sections:
           description: Research
           icon: chart-line
           icon_pack: fas
-        - name: Teaching
-          description: Undergraduate courses
-          icon: training
-          icon_pack: custom
   - block: experience
     content:
       title: Experience
