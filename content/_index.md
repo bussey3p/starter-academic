@@ -85,6 +85,7 @@ sections:
           description: ''
           organization: Radford University
           organization_url: https://www.radford.edu
+          company_logo: radford
           title: Crime Analysis Certificate
           url: ''
     design:
