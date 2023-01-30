@@ -27,7 +27,7 @@ sections:
         - name: Teaching
           description: Undergraduate Courses
           icon: chalkboard
-          icon_pack: custom
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
