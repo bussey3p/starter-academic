@@ -27,7 +27,7 @@ sections:
         - name: Teaching
           description: 10%
           icon: training
-          icon_pack: fas
+          icon_pack: custom
   - block: experience
     content:
       title: Experience
