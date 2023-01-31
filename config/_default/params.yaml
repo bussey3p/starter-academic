@@ -29,7 +29,7 @@ marketing:
 
 # Site header
 
-header: Trey Bussey
+header:
   navbar:
     enable: true
     align: l
