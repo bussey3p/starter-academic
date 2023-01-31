@@ -1,7 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Trey Bussey
-  widget: logo
+title: logo
 date: 2022-10-24
 type: landing
 
