@@ -171,6 +171,7 @@ sections:
         country: United States
         country_code: US
       directions: 218 CPACS
+      office hours: MW 11:00am - 12:00pm
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
