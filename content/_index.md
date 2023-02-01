@@ -13,6 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: 
   - block: features
+    id: skills
     content:
       title: Skills
       items:
@@ -26,8 +27,8 @@ sections:
           icon_pack: fas
         - name: Teaching
           description: 
-          icon: comments
-          icon_pack: fas
+          icon: chalkboard
+          icon_pack: fa
   - block: experience
     content:
       title: Education
