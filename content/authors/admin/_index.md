@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student in the School of Criminology and Criminal Justice at the University of Nebraska Omaha. I work as a graduate research assistant in the Violence Intervention and Policing Research "(VIPR) Lab"(https://www.viprlab.org). My research centers on policing with emphases on officer use of force, evidence-based policing strategies, and crime science. Welcome to my personal website. Contact me if you have any questions!
+I am a PhD student in the School of Criminology and Criminal Justice at the University of Nebraska Omaha. I work as a graduate research assistant in the Violence Intervention and Policing Research [(VIPR) Lab](https://www.viprlab.org). My research centers on policing with emphases on officer use of force, evidence-based policing strategies, and crime science. Welcome to my personal website. Contact me if you have any questions!
 {style="text-align: justify;"}
