@@ -93,10 +93,10 @@ sections:
           url: ''
     design:
       columns: '2'
- # - block: collection
-   # id: posts
-    #content:
-     # title: Recent Posts
+  - block: collection
+    id: posts
+    content: url_slides: https://treybussey.com/slides/guestlecture
+      title: Lectures
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
