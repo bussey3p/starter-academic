@@ -93,10 +93,10 @@ sections:
           url: ''
     design:
       columns: '2'
- # - block: collection
-  #  id: posts
-   # content: 
-    #  title: Lectures
+  - block: collection
+    id: posts
+    content: 
+      title: Lectures
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
