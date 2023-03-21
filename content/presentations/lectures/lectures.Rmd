@@ -1,12 +1,12 @@
 ---
 date: "2022-01-06T13:00:00"
 draft: false
-linktitle: Lectures/
+linktitle: Slides
 menu:
   presentations:
     parent: 
     weight: 1
-title: Lectures
+title: Slides
 toc: true
 type: docs
 weight: 1
