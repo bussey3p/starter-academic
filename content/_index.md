@@ -95,7 +95,7 @@ sections:
       columns: '2'
   - block: collection
     id: posts
-    content: url_slides: https://treybussey.com/slides/guestlecture
+    content: 
       title: Lectures
       subtitle: ''
       text: ''
@@ -103,8 +103,8 @@ sections:
       count: 5
       # Filter on criteria
       filters:
-        folders:
-          - post
+        folders: 
+          - presentations
         author: ""
         category: ""
         tag: ""
