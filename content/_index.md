@@ -96,7 +96,7 @@ sections:
   - block: collection
     id: posts
     content: 
-      title: Lectures
+      title: Slides
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
