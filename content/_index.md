@@ -98,7 +98,7 @@ sections:
     content: 
       title: Slides
       subtitle: 
-      text: url_slides: https://treybussey.com/slides/guestlecture
+      text: Slides
   # - block: portfolio
     #id: projects
     #content:
