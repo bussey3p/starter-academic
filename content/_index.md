@@ -93,13 +93,13 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: markdown
-    id: slides
-    content: 
-      title: Slides
-      subtitle: 
-      text: Slides
-      url_slides: https://treybussey.com/slides/guestlecture
+#  - block: markdown
+ #   id: slides
+  #  content: 
+   #   title: Slides
+    #  subtitle: 
+     # text: Slides
+      #url_slides: https://treybussey.com/slides/guestlecture
   # - block: portfolio
     #id: projects
     #content:
