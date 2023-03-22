@@ -4,16 +4,16 @@ draft: false
 linktitle: Slides
 menu:
   presentations:
-    parent: 
+    name: Overview
     weight: 1
+summary:     
 title: Slides
 toc: true
 type: docs
 weight: 1
 ---
 
-
 ## Guest Lecture
 
-[Crime Analysis](https://treybussey.com/slides/guestlecture)
+[Crime Analysis](https://treybussey.com/slides/guestlecture/index.html)
 

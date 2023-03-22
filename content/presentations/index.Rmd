@@ -1,5 +1,5 @@
 ---
-title: Lectures
+title: Slides
 date: "2022-11-30T14:00:00Z"
 
 # View.
