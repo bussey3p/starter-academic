@@ -99,6 +99,7 @@ sections:
       title: Slides
       subtitle: 
       text: Slides
+      [Guest Lecture](https://treybussey.com/slides/guestlecture)
   # - block: portfolio
     #id: projects
     #content:
