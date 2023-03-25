@@ -94,12 +94,13 @@ sections:
     design:
       columns: '2'
   - block: markdown
-    id: slides
-    content: 
-      title: Slides
+    content:
+      title: markdown
       subtitle: 
       text: [A presentation]({{% staticref "slides/guestlecture/index.html" "newtab" %}}Download my slides{{% /staticref %}})
     design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
   # - block: portfolio
     #id: projects
