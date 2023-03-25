@@ -96,7 +96,7 @@ sections:
   - block: markdown
     content:
       title: Slides
-      subtitle: 
+      subtitle:
       text: [A presentation]({{% staticref "slides/guestlecture/index.html" "newtab" %}}Download my slides{{% /staticref %}})
     design:
       # See Page Builder docs for all section customization options.
