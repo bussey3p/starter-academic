@@ -94,6 +94,7 @@ sections:
     design:
       columns: '2'
   - block: markdown
+    id: slides
     content:
       title: Slides
       subtitle:
