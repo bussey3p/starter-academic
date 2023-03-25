@@ -20,7 +20,7 @@ main:
  #   url: '#featured'
   #  weight: 50
   - name: Slides
-    url: '#slides'
+    url: '/#slides'
     weight: 50
   - name: Contact
     url: '#contact'
