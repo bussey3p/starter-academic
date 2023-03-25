@@ -95,7 +95,7 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: markdown
+      title:
       subtitle: 
       text: [A presentation]({{% staticref "slides/guestlecture/index.html" "newtab" %}}Download my slides{{% /staticref %}})
     design:
