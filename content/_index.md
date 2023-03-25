@@ -98,8 +98,7 @@ sections:
     content: 
       title: Slides
       subtitle: 
-      text: Slides
-      [A presentation]({{% staticref "https://treybussey.com/slides/guestlecture/index.html" "newtab" %}}Download my slides{{% /staticref %}})
+      text: [A presentation]({{% staticref "slides/guestlecture/index.html" "newtab" %}}Download my slides{{% /staticref %}})
   # - block: portfolio
     #id: projects
     #content:
