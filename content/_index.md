@@ -98,7 +98,7 @@ sections:
     content:
       title: Slides
       subtitle: 
-      text: 
+      text: This is a collection of my online slides
       items:
         - url: [Crime Analysis](https://treybussey.com/slides/guestlecture/index.html)
     design:
