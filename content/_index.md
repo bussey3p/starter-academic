@@ -98,7 +98,7 @@ sections:
     content:
       title: Slides
       subtitle: 
-      text: This is a collection of my online slideshows
+      text: On this page, you'll find links to slides for my lectures and conference presentations
      # items:
       #  url: [Crime Analysis](https://treybussey.com/slides/guestlecture/index.html)
     design:
