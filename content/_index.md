@@ -98,9 +98,9 @@ sections:
     content:
       title: Slides
       subtitle: 
-      text: This is a collection of my online slides
+      text:
       items:
-        - url: [Crime Analysis](https://treybussey.com/slides/guestlecture/index.html)
+        url: [Crime Analysis](https://treybussey.com/slides/guestlecture/index.html)
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
