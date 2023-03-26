@@ -94,15 +94,24 @@ sections:
     design:
       columns: '2'
   - block: markdown
-    id: slides
     content:
-      title: Slides
-      subtitle:
-      text: [A presentation]({{% staticref "slides/guestlecture/index.html" "newtab" %}}Download my slides{{% /staticref %}})
+      title: My title
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: 
+      columns: '1'
+ # - block: markdown
+  #  id: slides
+   # content:
+    #  title: Slides
+     # subtitle:
+      #text: [A presentation]({{% staticref "slides/guestlecture/index.html" "newtab" %}}Download my slides{{% /staticref %}})
+    #design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+     # columns: 
   # - block: portfolio
     #id: projects
     #content:
