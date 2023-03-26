@@ -98,7 +98,7 @@ sections:
     content:
       title: Slides
       subtitle: 
-      text: [Crime Analysis](https://treybussey.com/slides/guestlecture/index.html)
+      text: 
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
