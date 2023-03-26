@@ -1,0 +1,91 @@
+---
+title: "Crime Analysis:"
+subtitle: "Data-Driven Policing Strategies"
+author: "Trey Bussey"
+institute: "University of Nebraska Omaha"
+date: "03/29/2023"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: top
+
+# Standard Policing Model
+
+--
+
+- *Increased number of police officers*
+
+--
+
+- *Unfocused, randomized patrol*
+
+--
+
+- *Rapid response to calls*
+
+--
+
+- *Follow-up investigations*
+
+---
+class: inverse, center, middle
+
+# How do we prevent crime?
+
+---
+class: top
+
+# Proactive Crime Reduction
+
+--
+
+- *Place-based*
+
+--
+
+- *Offender-focused*
+
+--
+
+- *Problem-solving*
+
+--
+
+- *Community support*
+
+
+---
+class: top
+
+# Theoretical Framework
+
+## 80/20 
+
+--
+
+- *Places*
+
+--
+
+- *Offenders*
+
+--
+
+## Crime Concentration
+
+--
+
+- *Time*
+
+--
+
+- *Place*
+
+--
+
+- *Proximity to home*
