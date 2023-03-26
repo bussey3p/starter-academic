@@ -96,8 +96,8 @@ sections:
   - block: markdown
     id: slides
     content:
-      title: Presentations
-      subtitle: online slides
+      title: Slides
+      subtitle: 
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       # See Page Builder docs for all section customization options.
