@@ -98,7 +98,7 @@ sections:
     content:
       title: Slides
       subtitle: 
-      text: {{% staticref "uploads/guestlecture/index.html" "newtab" %}}Download slides{{% /staticref %}}
+      text: [Crime Analysis]({{% staticref "uploads/guestlecture/index.html" "newtab" %}}Download slides{{% /staticref %}})
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
