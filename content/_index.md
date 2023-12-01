@@ -93,18 +93,6 @@ sections:
           url: ''
     design:
       columns: '2'
-  #- block: markdown
-   # id: slides
-    #content:
-     # title: Slides
-      #subtitle: 
-      #text: On this page, you'll find links to slides for my lectures and conference presentations
-     # items:
-      #  url: [Crime Analysis](https://treybussey.com/slides/guestlecture/index.html)
-    #design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-     # columns: '1'
    - block: portfolio
     id: projects
     content:
