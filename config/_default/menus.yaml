@@ -19,8 +19,8 @@ main:
 #  - name: Publications
  #   url: '#featured'
   #  weight: 50
-  - name: Slides
-    url: '/#slides'
+  - name: Projects
+    url: 'projects'
     weight: 50
   - name: Contact
     url: '#contact'
