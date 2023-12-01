@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Trey Bussey
-date: 2022-10-24
+date: 2023-12-01
 type: landing
 
 sections:
@@ -105,16 +105,6 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
- # - block: markdown
-  #  id: slides
-   # content:
-    #  title: Slides
-     # subtitle:
-      #text: [A presentation]({{% staticref "slides/guestlecture/index.html" "newtab" %}}Download my slides{{% /staticref %}})
-    #design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-     # columns: 
    - block: portfolio
     id: projects
     content:
