@@ -89,11 +89,12 @@ sections:
           icon: database
           icon_pack: fas
           organization: Radford University
-          organization_url: https://www.radford.edu
+          organization_url: 
+          company_logo: radford
           title: Crime Analysis Certificate
           url: ''
     design:
-      columns: '1'
+      columns: '2'
   - block: portfolio
     id: projects
     content:
