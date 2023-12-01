@@ -86,6 +86,8 @@ sections:
           date_end: ''
           date_start: '2022-05-01'
           description: ''
+          icon: database
+          icon_pack: fas
           organization: Radford University
           organization_url: https://www.radford.edu
           company_logo: radford
