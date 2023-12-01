@@ -115,21 +115,21 @@ sections:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
      # columns: 
-  # - block: portfolio
-    #id: projects
-    #content:
-     # title: Projects
+   - block: portfolio
+    id: projects
+    content:
+      title: Projects
       filters:
         folders:
           - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
-      # Filter toolbar (optional).
+       Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
+      #buttons:
         - name: All
           tag: '*'
         - name: Deep Learning
