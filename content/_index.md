@@ -91,7 +91,7 @@ sections:
           company_logo: radford
           title: Crime Analysis Certificate
           url: ''
-    design:
+      design:
       columns: '2'
    - block: portfolio
     id: projects
