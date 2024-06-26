@@ -50,7 +50,7 @@ social:
     link: '/#contact'
   - icon: square-x-twitter
     icon_pack: fab
-    link: https://twitter.com/bussey3p
+    link: https://x.com/bussey3p
     label: Follow me on Twitter
     display:
       header: true
