@@ -1,5 +1,5 @@
 ---
-title: Professional Services 
+title: Professional Services
 summary: Contact me for academic and professional consulting services at `LinkedIn`.
 tags:
   - Demo
