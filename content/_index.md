@@ -101,6 +101,17 @@ sections:
           company_logo: radford
           title: Crime Analysis Certificate
           url: ''
+        - certificate_url: https://www.unomaha.edu/innovative-and-learning-centric-initiatives/services-we-offer/digital-learning/faculty-professional-development/foundations-of-teaching-online.php
+          date_end: ''
+          date_start: '2024-06-01'
+          description: ''
+          icon: chalkboard
+          icon_pack: fa
+          organization: University of Nebraska Omaha
+          organization_url: 
+          company_logo: uno
+          title: Foundations of Teaching Online
+          url: ''  
     design:
       columns: '2'
   - block: portfolio
