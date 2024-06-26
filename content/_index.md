@@ -50,7 +50,7 @@ sections:
           date_start: '2024-08-01'
           date_end: '2027-05-01'
           description:
-          - title: PhD in Criminology and Criminal Justice
+        - title: PhD in Criminology and Criminal Justice
           company: University of Nebraska Omaha
           company_url: ''
           company_logo: uno
