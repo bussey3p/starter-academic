@@ -1,5 +1,5 @@
 ---
-title: Research updates 
+title: Research Updates 
 summary: Follow me on X to stay up to date with my ongoing research at `x.com/bussey3p`.
 tags:
   - Demo
