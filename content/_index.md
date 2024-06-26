@@ -47,8 +47,16 @@ sections:
           company_url: ''
           company_logo: cin
           location: Cincinnati, OH
+          date_start: '2024-08-01'
+          date_end: '2027-05-01'
+          description:
+          - title: PhD in Criminology and Criminal Justice
+          company: University of Nebraska Omaha
+          company_url: ''
+          company_logo: uno
+          location: Omaha, NE
           date_start: '2022-08-01'
-          date_end: '2026-05-01'
+          date_end: '2024-05-01'
           description:
         - title: MS in Criminal Justice
           company: Radford University
