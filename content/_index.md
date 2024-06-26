@@ -45,7 +45,7 @@ sections:
         - title: PhD in Criminal Justice
           company: University of Cincinnati
           company_url: ''
-          company_logo: uno
+          company_logo: cin
           location: Cincinnati, OH
           date_start: '2022-08-01'
           date_end: '2026-05-01'
