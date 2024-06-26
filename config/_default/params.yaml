@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: 1905s
-  theme_night: mr robot
+  theme_day: cyberpunk
+  theme_night: cyberpunk
   font: rose
   font_size: L
 
