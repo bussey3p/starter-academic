@@ -49,7 +49,7 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: x-twitter
-    icon_pack: custom
+    icon_pack: fab
     link: https://x.com/bussey3p
     label: Follow me on X
     display:
