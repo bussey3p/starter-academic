@@ -75,7 +75,7 @@ sections:
           date_end: '2020-05-01'
           description: 
     design:
-      columns: '2'
+      columns: '1'
   - block: accomplishments
     id: certifications
     content:
@@ -138,7 +138,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: card
   - block: contact
     id: contact
