@@ -115,7 +115,7 @@ sections:
       columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: false 
   - block: portfolio
     id: services
     content:
