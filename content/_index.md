@@ -102,7 +102,7 @@ sections:
           title: Crime Analysis Certificate
           url: ''
     design:
-      columns: '2'
+      columns: '1'
   - block: portfolio
     id: projects
     content:
@@ -116,7 +116,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  #- block: portfolio
+  - block: portfolio
     id: services
     content:
       title: Services
