@@ -142,7 +142,7 @@ sections:
         postcode: '45221'
         country: United States
         country_code: US
-      directions: CECH
+      directions: CECH Criminal Justice
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
