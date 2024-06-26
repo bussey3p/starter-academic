@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student in the [School of Criminal Justice](https://cech.uc.edu/schools/criminaljustice.html) at the University of Cincinnati. I work as a graduate research assistant in the [Institute of Crime Science](https://cech.uc.edu/about/centers/ics.html). My research centers on policing with emphases on crime and place, public opinion, and police shootings. Welcome to my personal website. [Contact me](/#contact) if you have any questions and follow me on [X](https://twitter.com/bussey3p) to stay up to date on my ongoing research.
+I am a PhD student in the [School of Criminal Justice](https://cech.uc.edu/schools/criminaljustice.html) at the University of Cincinnati. I work as a graduate research assistant in the [Institute of Crime Science](https://cech.uc.edu/about/centers/ics.html). My research centers on policing with emphases on crime and place, public opinion, and police shootings. Welcome to my personal website. [Contact me](/#contact) if you have any questions and follow me on [X](https://twitter.com/bussey3p) to stay up to date with my ongoing research.
 {style="text-align: justify;"}
