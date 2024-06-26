@@ -102,7 +102,7 @@ sections:
           title: Crime Analysis Certificate
           url: ''
     design:
-      columns: '1'
+      columns: '2'
   - block: portfolio
     id: projects
     content:
