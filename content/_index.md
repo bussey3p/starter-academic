@@ -21,6 +21,10 @@ sections:
           description: 
           icon: r-project
           icon_pack: fab
+        - name: Crime Analysis
+          description: 
+          icon: map
+          icon_pack: fa
         - name: Statistics
           description: 
           icon: chart-line
