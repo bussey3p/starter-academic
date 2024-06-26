@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: apogee
-  theme_night: apogee
+  theme_day: 1905s
+  theme_night: mr robot
   font: rose
   font_size: L
 
