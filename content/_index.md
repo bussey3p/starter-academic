@@ -17,7 +17,7 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Data Analysis
           description: 
           icon: r-project
           icon_pack: fab
@@ -25,11 +25,7 @@ sections:
           description: 
           icon: map
           icon_pack: fa
-        - name: Statistics
-          description: 
-          icon: chart-line
-          icon_pack: fas
-        - name: Teaching
+        - name: Course Development
           description: 
           icon: chalkboard
           icon_pack: fa
