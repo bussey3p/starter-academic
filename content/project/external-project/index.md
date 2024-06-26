@@ -1,6 +1,6 @@
 ---
 title: Research updates 
-summary: Check out my X account for research updates at `x.com/bussey3p`.
+summary: Follow me on X to stay up to date with my ongoing research at `x.com/bussey3p`.
 tags:
   - Demo
 date: "2023-12-01T00:00:00Z"
