@@ -126,15 +126,15 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: pbussey@unomaha.edu
+      email: busseypt@mail.uc.edu
       address:
-        street: 6001 Dodge street
-        city: Omaha
-        region: NE
-        postcode: '68182'
+        street: 2610 University Circle
+        city: Cincinnati
+        region: OH
+        postcode: '45221'
         country: United States
         country_code: US
-      directions: 218 CPACS
+      directions: CECH
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
