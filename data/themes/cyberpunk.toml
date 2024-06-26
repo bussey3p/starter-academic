@@ -13,7 +13,7 @@ name = "Cyberpunk"
 
 [dark]
   # Primary
-  primary = "rgb(255, 0, 60)"
+  primary = "rgb(255, 0, 0)"
 
   # Menu
   menu_primary = "#ff0000"
