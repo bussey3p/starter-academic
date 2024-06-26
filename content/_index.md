@@ -75,7 +75,7 @@ sections:
           date_end: '2020-05-01'
           description: 
     design:
-      columns: '1'
+      columns: '2'
   - block: accomplishments
     id: certifications
     content:
@@ -112,7 +112,7 @@ sections:
           - project
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -125,7 +125,7 @@ sections:
           - project2
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false      
@@ -138,7 +138,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '1'
+      columns: '2'
       view: card
   - block: contact
     id: contact
