@@ -15,8 +15,8 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Nebraska Omaha
-    url: https://www.unomaha.edu
+  - name: University of Cincinnati
+    url: https://www.uc.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include officer use of force, evidence-based policing, and crime science
@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student in the [School of Criminology and Criminal Justice](https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/index.php) at the University of Nebraska Omaha. I work as a graduate research assistant in the [Violence Intervention and Policing Research (VIPR) Lab](https://www.viprlab.org). My research centers on policing with emphases on police officer behavior, crime and place, and public opinion. Welcome to my personal website. Contact me if you have any questions!
+I am a PhD student in the [School of Criminal Justice](https://www.https://cech.uc.edu/schools/criminaljustice.html) at the University of Cincinnati. I work as a graduate research assistant in the [Institute of Crime Science](https://www.https://cech.uc.edu/about/centers/ics.html). My research centers on policing with emphases on police officer behavior, crime and place, and public opinion. Welcome to my personal website. Contact me if you have any questions!
 {style="text-align: justify;"}
