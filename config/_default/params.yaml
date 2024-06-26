@@ -8,7 +8,7 @@
 appearance:
   theme_day: cyberpunk
   theme_night: mr robot
-  font: native
+  font: mr robot
   font_size: L
 
 # SEO
