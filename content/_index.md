@@ -21,7 +21,7 @@ sections:
           description: 
           icon: r-project
           icon_pack: fab
-        - name: Crime Analysis
+        - name: Crime Mapping
           description: 
           icon: map
           icon_pack: fa
