@@ -48,7 +48,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: square-x-twitter
+  - icon: x-twitter
     icon_pack: custom
     link: https://x.com/bussey3p
     label: Follow me on X
