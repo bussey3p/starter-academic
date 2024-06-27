@@ -7,6 +7,14 @@
   title = "Twitter"
   icon_pack = "fab"
   icon = "twitter"
+  enable = false
+
+[[buttons]]
+  id = "x"
+  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  title = "X"
+  icon_pack = "fab"
+  icon = "x-twitter"
   enable = true
 
 [[buttons]]
