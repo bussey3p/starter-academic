@@ -48,8 +48,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: x
-    icon_pack: brands
+  - icon: x-twitter
+    icon_pack: custom
     link: https://x.com/bussey3p
     label: Follow me on X
     display:
