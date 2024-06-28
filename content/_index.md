@@ -42,7 +42,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD in Criminal Justice
+        - title: PhD student | Criminal Justice
           company: University of Cincinnati
           company_url: ''
           company_logo: cin
@@ -50,7 +50,7 @@ sections:
           date_start: '2024-08-01'
           date_end: '2027-05-01'
           description:
-        - title: PhD in Criminology and Criminal Justice
+        - title: PhD student | Criminology and Criminal Justice
           company: University of Nebraska Omaha
           company_url: ''
           company_logo: uno
@@ -58,7 +58,7 @@ sections:
           date_start: '2022-08-01'
           date_end: '2024-05-01'
           description:
-        - title: MS in Criminal Justice
+        - title: MS | Criminal Justice
           company: Radford University
           company_url: ''
           company_logo: radford
@@ -66,7 +66,7 @@ sections:
           date_start: '2020-08-01'
           date_end: '2022-05-01'
           description: 
-        - title: BS in Criminal Justice
+        - title: BS | Criminal Justice
           company: Radford University
           company_url: ''
           company_logo: radford
