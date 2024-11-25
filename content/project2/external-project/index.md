@@ -1,6 +1,6 @@
 ---
 title: Services
-summary: Contact me on LinkedIn for academic and professional consulting services.
+summary: Contact me on LinkedIn for academic and professional services.
 tags:
   - Demo
 date: "2023-12-01T00:00:00Z"
